@@ -7,11 +7,11 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCCA6g1NCrOEI15qK07");
+    window.open("https://whatsapp.com/channel/0029VbCKzuEFXUugctLPPy1D");
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/17qXKSuWiV/");
+    window.open("https://www.facebook.com/profile.php?id=100023500530215");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -32,8 +32,10 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/4qA4hryZQR", "_blank");
+    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
 });
+
+
 
 
 
